@@ -41,7 +41,6 @@ It also enhanced my comfort with **Power Query**, **Pivot Table logic**, and **d
 ## View the Project
 
 You can view/download the dashboard from this repository or using the following link:  
-👉 
----
+👉 https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/Superstore%20Sales%20Dashboard.xlsx
 
 `#ExcelDashboard` `#DataAnalytics` `#PowerQuery` `#PortfolioProject` `#SuperstoreData` `#KaggleProject` `#DataVisualization` `#BusinessAnalysis`
