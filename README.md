@@ -27,7 +27,7 @@ After data cleaning and transformation in **Power Query**, the refined dataset w
 - **Yearly Sales Trend** – Line Chart  
 - **Top 10 Products by Sales** – Pie Chart  
 - **Sales by Segment** – Clustered Bar Chart
-- 
+   
 #  What I Learned
 
 This project helped me gain foundational skills in:
@@ -54,9 +54,9 @@ I also improved my comfort with Power Query,Pivot Table logic, and dashboard des
 
 # View or Download the Project
 
-👉 [Click here to view the Excel Dashboard](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/Superstore%20Sales%20Dashboard.xlsx)
+[Click here to view the Excel Dashboard] (https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/Superstore%20Sales%20Dashboard.xlsx)
 
-👉 [Original CSV dataset (raw)](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/superstore_raw.csv)
+[Original CSV dataset (raw)] (https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/Superstore_raw_dataset.csv)
 
 ---
 
