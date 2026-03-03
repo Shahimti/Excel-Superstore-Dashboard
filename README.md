@@ -162,9 +162,9 @@ Based on the analysis, Horizon Retail Group can:
 
 ### Assumptions & Limitations:
 
-Sales values represent gross revenue (not profit).
+- Sales values represent gross revenue (not profit).
 
-Delivery time calculated as Ship Date minus Order Date.
+- Delivery time calculated as Ship Date minus Order Date.
 
-Analysis focuses on revenue metrics rather than margin modeling.
+- Analysis focuses on revenue metrics rather than margin modeling.
 
