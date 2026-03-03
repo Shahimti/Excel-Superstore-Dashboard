@@ -94,8 +94,6 @@ Customer Segment Contribution
 
 The Consumer segment contributes the largest share of total revenue, followed by Corporate and Home Office.
 
-Segment-based slicing enables targeted revenue analysis.
-
 Top 10 Products by Revenue
 
 ![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Top%2010%20products%20by%20revenue%20.png)
