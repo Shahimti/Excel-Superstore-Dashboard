@@ -32,11 +32,11 @@ As transaction volume scaled, leadership faced limited centralized visibility in
 
 ![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Superstore%20Messy%20dataset.png)
 
-Horizontal Retail Group Messy Dataset
+Horizontal Retail Group Raw Transaction Dataset
 
 ![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Superstore%20Cleaned%20Dataset.png)
 
-Horizontal Retail Group Dataset after cleaning and transform the dataset into Power Query. 
+Horizontal Retail Group Dataset after cleaning and transform using Power Query. 
 
 ![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Pivot%20Tables%20.png)
 
@@ -148,7 +148,7 @@ It supports:
 
 The model enables leadership to transition from static reporting toward interactive financial oversight.
 
-Based on the analysis, Horizon Retail Group can:
+Based on the analysis, Horizon Retail Group leadership can:
 
 - Prioritize high-performing product categories
 
