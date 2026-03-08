@@ -1,6 +1,6 @@
 # Horizon Retail Group | Excel Executive Dashboard Case Study
 
-## Business Backgroung & Problem Statement
+## Business Background & Problem Statement
 
 Horizon Retail Group is a multi-region retail company operating across Central, East, South and West markets with diversified product categories including Furniture, Office Supplies and Technology.
 
@@ -164,7 +164,7 @@ Based on the analysis, Horizon Retail Group can:
 
 - Sales values represent gross revenue (not profit).
 
-- Delivery time calculated as Ship Date minus Order Date.
+- Delivery time calculated as ship Date minus order Date.
 
 - Analysis focuses on revenue metrics rather than margin modeling.
 
