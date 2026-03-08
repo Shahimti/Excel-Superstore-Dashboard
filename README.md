@@ -80,7 +80,7 @@ Sales by Region
 
 ![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Sales%20by%20Region.png)
 
-Revenue distribution across four regions reveals concentration in high-performing markets, enabling regional strategy alignment.
+Sales are distributed across all four regions, with East accounting for the largest share (30%) followed by West (28%), indicating moderate regional concentration.
 
 Sales by Category & Sub-Category
 
