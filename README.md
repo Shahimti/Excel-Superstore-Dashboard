@@ -104,7 +104,7 @@ Top 10 States by Sales
 
 ![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Top%2010%20States%20by%20Sales.png)
 
-State-level analysis highlights geographic revenue concentration and underperforming territories.
+The Top 10 states by sales chart highlights geographic revenue concentration across the highest-performing states, led by California & New York.
 
 ### KPI Calculation Framework
 
