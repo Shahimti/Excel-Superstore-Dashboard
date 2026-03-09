@@ -38,7 +38,7 @@ Horizon Retail Group Raw Transaction Dataset
 
 Horizon Retail Group Dataset after cleaning and transform using Power Query. 
 
-![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Pivot%20Tables%20.png)
+![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Pivot%20Table.jpeg)
 
 Pivot Table View 
 
@@ -54,7 +54,7 @@ Pivot Table View
 
 - Executive Dashboard Overview
 
-![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Superstore_Dashboard.png)
+![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Superstore%20Sales%20Dashboard.jpeg)
 
 The final Excel dashboard integrates interactive slicers and KPI cards to provide a centralized performance monitoring system.
 
@@ -100,9 +100,9 @@ Top 10 Products by Revenue
 
 Revenue is partially concentrated among high-performing SKUs, allowing inventory and product prioritization decisions.
 
-Sales by State
+Top 10 States by Sales
 
-![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Sales%20by%20States.png)
+![Alt text](https://github.com/Shahimti/Excel-Superstore-Dashboard/blob/main/project_images/Top%2010%20States%20by%20Sales.png)
 
 State-level analysis highlights geographic revenue concentration and underperforming territories.
 
